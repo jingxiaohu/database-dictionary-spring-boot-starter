@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.trh.dictionary.config.MD5AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.trh.dictionary.service.BuildPDF
